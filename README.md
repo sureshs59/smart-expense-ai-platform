@@ -22,16 +22,21 @@ A full-stack starter project with:
 - Java 21+
 - Maven 3.9+
 - Python 3.11+
-  ## Screenshots
+  
+## Architecture
 
-### Dashboard
-![Dashboard](./assets/dashboard.png)
+![Architecture Diagram](./assets/architecture-flowchart.svg)
 
-### Add Expense
-![Add Expense](./assets/add-expenses.png)
+## Screenshots
 
-### Monthly Analytics
-![Monthly Analytics](./assets/monthly-chart.png)
+  ### Dashboard
+  ![Dashboard](./assets/dashboard.png)
+
+  ### Add Expense
+  ![Add Expense](./assets/add-expenses.png)
+
+  ### Monthly Analytics
+  ![Monthly Analytics](./assets/monthly-chart.png)
 
 ## Run order
 
