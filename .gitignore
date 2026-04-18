@@ -1,0 +1,27 @@
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.vscode/
+
+# Spring Boot
+backend/target/
+backend/.mvn/
+*.class
+*.log
+
+# Python
+ml-service/__pycache__/
+ml-service/.venv/
+ml-service/venv/
+ml-service/*.pyc
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+application-local.properties
