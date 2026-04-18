@@ -71,3 +71,11 @@ Frontend runs on `http://localhost:4200`
 - Backend uses H2 in-memory DB and seeds sample data on startup.
 - Angular uses standalone components and `ng2-charts`.
 - The ML service uses simple heuristics plus lightweight statistics so it runs fast locally.
+
+## Future Enhancements
+- OAuth / JWT login
+- export PDF reports
+- recurring expense reminders
+- LLM-based smart spending suggestions
+- chatbot for finance insights
+- cloud deployment on AWS
