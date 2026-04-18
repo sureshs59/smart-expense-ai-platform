@@ -28,7 +28,7 @@ A full-stack starter project with:
 ![Dashboard](./assets/dashboard.png)
 
 ### Add Expense
-![Add Expense](./assets/add-expense.png)
+![Add Expense](./assets/add-expenses.png)
 
 ### Monthly Analytics
 ![Monthly Analytics](./assets/monthly-chart.png)
